@@ -1,0 +1,12 @@
+{
+    "welcome": "Hello! I'm here to help you build your dream PC. You can ask me about different PC parts or get guidance on where to start.",
+    "help": "You can ask me about CPUs, GPUs, motherboards, RAM, storage, or cooling systems. Just type the component you need help with!",
+    "cpu": "The CPU is the brain of your computer. Depending on your usage (gaming, graphic design, general use), I can recommend different processors. What will you primarily use your PC for?",
+    "gpu": "GPUs are crucial for gaming and video editing. Are you looking for something top of the line, or are you on a budget?",
+    "motherboard": "Motherboards connect all your components. Do you need help picking one that's compatible with a specific CPU or GPU?",
+    "ram": "RAM helps your system handle more tasks at once. How much RAM are you thinking about, and do you have preferences for speed?",
+    "storage": "We can choose between SSDs for speed or HDDs for more storage at a lower cost. Do you need a recommendation based on storage size or speed?",
+    "cooling": "Proper cooling is essential to keep your PC running smoothly, especially if you plan to overclock. Are you interested in water cooling or traditional fans?",
+    "thank_you": "Thank you for using our chatbot! If you have any more questions, feel free to ask. Happy building!",
+    "unknown": "I'm not sure how to help with that. Could you specify a bit more or try asking about a specific PC part?"
+}

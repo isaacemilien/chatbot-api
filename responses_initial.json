@@ -1,0 +1,5 @@
+{
+    "hello": "Hello! How can I assist you with building your PC today?",
+    "help": "You can ask me about different components like CPUs, GPUs, or memory. What do you need help with?",
+    "unknown": "Can you please specify a bit more what you need help with?"
+}

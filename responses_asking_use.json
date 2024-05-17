@@ -1,0 +1,6 @@
+{
+    "gaming": "Great, gaming PCs need powerful GPUs and CPUs. Are you interested in the latest gaming graphics cards or something more budget-friendly?",
+    "work": "For work, especially if it involves graphic design or video editing, you'll want a powerful CPU and plenty of RAM. Should I suggest some options?",
+    "general": "General use computers don't need to be very high-spec. A balanced CPU and sufficient RAM will do. Shall I recommend some budget-friendly options?",
+    "unknown": "Could you clarify what you'll mainly use the PC for? Gaming, work, or general use?"
+}
